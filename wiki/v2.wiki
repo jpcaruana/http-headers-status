@@ -1,4 +1,4 @@
-#summary Changes in Revision 3
+#summary Changes in Version 2
 #labels Featured
 
 = Changes in Version 2 =
