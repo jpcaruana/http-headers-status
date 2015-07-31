@@ -1,0 +1,1 @@
+An activity diagram to describe the resolution of HTTP response status codes, given various headers.
